@@ -1,2 +1,2 @@
 # Lily-Chatbot
-Lily is a chatbot app that works in conjunction with the OpenAI GPT API
+Lily is a chatbot app that works in conjunction with the OpenAI GPT API developed by Franklin Media Australia Pty Ltd. It utilises the OpenAI API to generate responses to prompts typed into the GUI interface by the user. The user can enter their name so that it will appear in the chatbox with the user responses on the right of the chatbox and the bot responses on the left side of the chatbox. The app is designed as a desktop chatbot to interface with the OpenAI narrow Artificial Intelligence API.
